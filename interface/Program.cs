@@ -9,5 +9,9 @@ class Program
 
         Pig myPig = new Pig();
         myPig.animalSound();
+
+        var mylvl = Gamelvl.Low;
+
+        Console.WriteLine(mylvl);
     }
 }
